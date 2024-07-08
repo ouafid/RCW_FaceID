@@ -1,4 +1,6 @@
 opencv-python
 numpy
+conda-forge cmake
+conda-forge dlib
 face-recognition
 streamlit
